@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I am Bhavesh Tandel 👋
+
+- 🔭 I’m currently working on iOS/Swift
+- 🌱 I’m currently learning flutter
 
 <!--
 **bhaveshtandel17/bhaveshtandel17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
